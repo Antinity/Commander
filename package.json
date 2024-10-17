@@ -29,7 +29,7 @@
   "main": "src/index.js",
   "bin": "./src/index.js",
   "scripts": {
-    "test": "node src/index.js"
+    "start": "npm i && node src/index.js"
   },
   "pkg": {
     "assets": [
@@ -37,7 +37,7 @@
     ],
     "output": "dist"
   },
-  "author": "WholeIndia",
+  "author": "Antinity",
   "license": "ISC",
   "description": ""
 }
